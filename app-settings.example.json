@@ -1,0 +1,4 @@
+{
+    "mqttServer": "mqtt://MQTT_SERVER_IP",
+    "wssPort": 8000
+}

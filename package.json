@@ -1,0 +1,15 @@
+{
+  "name": "tracking",
+  "version": "1.0.0",
+  "description": "MQTT Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon start ./index.js",
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^5.3.3"
+  }
+}
